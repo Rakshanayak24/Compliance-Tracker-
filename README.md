@@ -6,7 +6,7 @@ A simple full-stack web application to manage compliance tasks for multiple clie
 
 ## 🔗 Live Demo
 
-Frontend: https://compliance-tracker-blush.vercel.app/
+Frontend: https://compliance-tracker-blush.vercel.app/ //
 Backend: https://compliance-tracker-gpfw.onrender.com
 
 ---
